@@ -1,0 +1,38 @@
+[
+  {
+    "name": "IM-Dashboard",
+    "url": "https://appsgrycap.i3m.upv.es:31443/im-dashboard/login",
+    "icon": "https://appsgrycap.i3m.upv.es:31443/im-dashboard/static/images/favicon_io/favicon-32x32.png",
+    "slug": "im-dashboard",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 571,
+    "timeDay": 571,
+    "timeWeek": 571,
+    "timeMonth": 571,
+    "timeYear": 571,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "IM Server",
+    "url": "https://appsgrycap.i3m.upv.es:31443/im/version",
+    "icon": "https://appsgrycap.i3m.upv.es:31443/im-dashboard/static/images/favicon_io/favicon-32x32.png",
+    "slug": "im-server",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 132,
+    "timeDay": 132,
+    "timeWeek": 132,
+    "timeMonth": 132,
+    "timeYear": 132,
+    "dailyMinutesDown": {}
+  }
+]
