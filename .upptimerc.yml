@@ -15,9 +15,6 @@ sites:
   - name: ReMindCare I3M
     url: https://remindcare.i3m.upv.es/
     icon: https://remindcare.i3m.upv.es/brain.png
-  - name: ReMindCare
-    url: https://remindcare.i3m.upv.es/
-    icon: https://remindcare.i3m.upv.es/brain.png
   - name: ReMindCare GVA
     url: https://remindcare-hclinico.san.gva.es
     icon: https://remindcare-hclinico.san.gva.es/brain.png
@@ -26,7 +23,7 @@ sites:
     icon: https://remindcare.osakidetza.eus/brain.png
   - name: ECNP-CDM
     url: https://ecnp-cdm.i3m.upv.es
-    icon: https://ecnp-cdm.i3m.upv.es/ecnp-cdm_logo_white.png
+    icon: https://ecnp-cdm.i3m.upv.es/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
