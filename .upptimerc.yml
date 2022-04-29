@@ -12,6 +12,21 @@ sites:
   - name: Cloud Trail Tracker
     url: https://cloudtrailtracker.cursocloudaws.net/
     icon: https://raw.githubusercontent.com/grycap/cloudtrail-tracker-ui/master/static/logos/favicon.ico
+  - name: ReMindCare I3M
+    url: https://remindcare.i3m.upv.es/
+    icon: https://remindcare.i3m.upv.es/brain.png
+  - name: ReMindCare
+    url: https://remindcare.i3m.upv.es/
+    icon: https://remindcare.i3m.upv.es/brain.png
+  - name: ReMindCare GVA
+    url: https://remindcare-hclinico.san.gva.es
+    icon: https://remindcare-hclinico.san.gva.es/brain.png
+  - name: ReMindCare Osakidetza
+    url: https://remindcare.osakidetza.eus
+    icon: https://remindcare.osakidetza.eus/brain.png
+  - name: ECNP-CDM
+    url: https://ecnp-cdm.i3m.upv.es
+    icon: https://ecnp-cdm.i3m.upv.es/ecnp-cdm_logo_white.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
