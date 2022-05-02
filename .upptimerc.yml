@@ -6,24 +6,38 @@ sites:
   - name: IM-Dashboard
     url: https://appsgrycap.i3m.upv.es:31443/im-dashboard/login
     icon: https://appsgrycap.i3m.upv.es:31443/im-dashboard/static/images/favicon_io/favicon-32x32.png
+    assignees:
+      - micafer
   - name: IM Server
     url: https://appsgrycap.i3m.upv.es:31443/im/version
     icon: https://appsgrycap.i3m.upv.es:31443/im-dashboard/static/images/favicon_io/favicon-32x32.png
+    assignees:
+      - micafer
   - name: Cloud Trail Tracker
     url: https://cloudtrailtracker.cursocloudaws.net/
     icon: https://raw.githubusercontent.com/grycap/cloudtrail-tracker-ui/master/static/logos/favicon.ico
+    assignees:
+      - gmolto
   - name: ReMindCare I3M
     url: https://remindcare.i3m.upv.es/
     icon: https://remindcare.i3m.upv.es/brain.png
+    assignees:
+      - darce-i3m
   - name: ReMindCare GVA
     url: https://remindcare-hclinico.san.gva.es
     icon: https://remindcare-hclinico.san.gva.es/brain.png
+    assignees:
+      - darce-i3m
   - name: ReMindCare Osakidetza
     url: https://remindcare.osakidetza.eus
     icon: https://remindcare.osakidetza.eus/brain.png
+    assignees:
+      - darce-i3m
   - name: ECNP-CDM
     url: https://ecnp-cdm.i3m.upv.es
     icon: https://ecnp-cdm.i3m.upv.es/favicon.ico
+    assignees:
+      - darce-i3m
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
