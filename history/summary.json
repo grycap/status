@@ -73,11 +73,11 @@
     "icon": "https://remindcare.i3m.upv.es/brain.png",
     "slug": "re-mind-care-i3-m",
     "status": "up",
-    "uptime": "95.86%",
+    "uptime": "95.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "95.86%",
+    "uptimeYear": "95.87%",
     "time": 606,
     "timeDay": 512,
     "timeWeek": 531,
@@ -141,9 +141,9 @@
     "url": "https://remindcare.osakidetza.eus",
     "icon": "https://remindcare.osakidetza.eus/brain.png",
     "slug": "re-mind-care-osakidetza",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.87%",
@@ -153,6 +153,7 @@
     "timeMonth": 686,
     "timeYear": 696,
     "dailyMinutesDown": {
+      "2022-07-13": 0,
       "2022-07-04": 118,
       "2022-06-28": 24
     }
