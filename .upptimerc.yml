@@ -23,16 +23,6 @@ sites:
     icon: https://remindcare.i3m.upv.es/brain.png
     assignees:
       - darce-i3m
-  - name: ReMindCare GVA
-    url: https://remindcare-hclinico.san.gva.es
-    icon: https://remindcare-hclinico.san.gva.es/brain.png
-    assignees:
-      - darce-i3m
-  - name: ReMindCare Osakidetza
-    url: https://remindcare.osakidetza.eus
-    icon: https://remindcare.osakidetza.eus/brain.png
-    assignees:
-      - darce-i3m
   - name: ECNP-CDM
     url: https://ecnp-cdm.i3m.upv.es
     icon: https://ecnp-cdm.i3m.upv.es/favicon.ico
