@@ -1,6 +1,8 @@
 # Change these first
 owner: grycap # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
+assignees:
+  - micafer
 
 sites:
   - name: IM-Dashboard
