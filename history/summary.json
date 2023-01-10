@@ -79,18 +79,20 @@
     "url": "https://cloudtrailtracker.cursocloudaws.net/",
     "icon": "https://raw.githubusercontent.com/grycap/cloudtrail-tracker-ui/master/static/logos/favicon.ico",
     "slug": "cloud-trail-tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 123,
-    "timeDay": 82,
-    "timeWeek": 118,
-    "timeMonth": 102,
-    "timeYear": 123,
-    "dailyMinutesDown": {}
+    "time": 164,
+    "timeDay": 5583,
+    "timeWeek": 1488,
+    "timeMonth": 446,
+    "timeYear": 164,
+    "dailyMinutesDown": {
+      "2023-01-10": 0
+    }
   },
   {
     "name": "ReMindCare I3M",
