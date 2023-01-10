@@ -79,19 +79,19 @@
     "url": "https://cloudtrailtracker.cursocloudaws.net/",
     "icon": "https://raw.githubusercontent.com/grycap/cloudtrail-tracker-ui/master/static/logos/favicon.ico",
     "slug": "cloud-trail-tracker",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 5583,
-    "timeWeek": 1488,
-    "timeMonth": 446,
+    "timeDay": 3770,
+    "timeWeek": 1339,
+    "timeMonth": 436,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2023-01-10": 0
+      "2023-01-10": 16
     }
   },
   {
