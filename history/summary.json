@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.75%",
-    "time": 785,
-    "timeDay": 556,
-    "timeWeek": 607,
-    "timeMonth": 928,
+    "time": 784,
+    "timeDay": 460,
+    "timeWeek": 608,
+    "timeMonth": 920,
     "timeYear": 790,
     "dailyMinutesDown": {
       "2023-03-24": 20,
@@ -40,8 +40,7 @@
       "2022-06-20": 24,
       "2022-06-13": 19,
       "2022-06-12": 21,
-      "2022-05-03": 38,
-      "2022-05-02": 180
+      "2022-05-03": 38
     }
   },
   {
@@ -50,15 +49,15 @@
     "icon": "https://appsgrycap.i3m.upv.es:31443/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-server",
     "status": "up",
-    "uptime": "98.78%",
+    "uptime": "98.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.78%",
     "time": 142,
-    "timeDay": 138,
+    "timeDay": 111,
     "timeWeek": 132,
-    "timeMonth": 136,
+    "timeMonth": 134,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2023-01-25": 19,
@@ -78,8 +77,7 @@
       "2022-06-28": 29,
       "2022-06-20": 23,
       "2022-06-12": 20,
-      "2022-05-03": 38,
-      "2022-05-02": 213
+      "2022-05-03": 38
     }
   },
   {
@@ -94,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 136,
-    "timeWeek": 111,
-    "timeMonth": 105,
+    "timeDay": 63,
+    "timeWeek": 112,
+    "timeMonth": 104,
     "timeYear": 149,
     "dailyMinutesDown": {
       "2023-01-10": 16
@@ -108,15 +106,15 @@
     "icon": "https://remindcare.i3m.upv.es/brain.png",
     "slug": "re-mind-care-i3-m",
     "status": "up",
-    "uptime": "96.13%",
+    "uptime": "96.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.11%",
     "time": 614,
-    "timeDay": 564,
-    "timeWeek": 567,
-    "timeMonth": 700,
+    "timeDay": 457,
+    "timeWeek": 537,
+    "timeMonth": 697,
     "timeYear": 615,
     "dailyMinutesDown": {
       "2023-03-28": 16,
@@ -190,8 +188,7 @@
       "2022-05-06": 67,
       "2022-05-05": 92,
       "2022-05-04": 136,
-      "2022-05-03": 203,
-      "2022-05-02": 363
+      "2022-05-03": 203
     }
   },
   {
@@ -200,18 +197,19 @@
     "icon": "https://ecnp-cdm.i3m.upv.es/favicon.ico",
     "slug": "ecnp-cdm",
     "status": "down",
-    "uptime": "98.08%",
-    "uptimeDay": "7.95%",
-    "uptimeWeek": "86.85%",
-    "uptimeMonth": "96.97%",
-    "uptimeYear": "98.08%",
+    "uptime": "97.82%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "72.59%",
+    "uptimeMonth": "93.69%",
+    "uptimeYear": "97.80%",
     "time": 538,
     "timeDay": 0,
-    "timeWeek": 514,
-    "timeMonth": 518,
+    "timeWeek": 541,
+    "timeMonth": 516,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2023-05-01": 49,
+      "2023-05-02": 47,
+      "2023-05-01": 1440,
       "2023-04-30": 1276,
       "2023-03-28": 15,
       "2023-01-25": 18,
@@ -274,8 +272,7 @@
       "2022-05-06": 183,
       "2022-05-05": 75,
       "2022-05-04": 155,
-      "2022-05-03": 113,
-      "2022-05-02": 166
+      "2022-05-03": 113
     }
   }
 ]
