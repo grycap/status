@@ -5,15 +5,15 @@
     "icon": "https://appsgrycap.i3m.upv.es:31443/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-dashboard",
     "status": "up",
-    "uptime": "98.78%",
+    "uptime": "98.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.79%",
     "time": 781,
-    "timeDay": 454,
-    "timeWeek": 606,
-    "timeMonth": 933,
+    "timeDay": 552,
+    "timeWeek": 620,
+    "timeMonth": 932,
     "timeYear": 794,
     "dailyMinutesDown": {
       "2023-03-24": 20,
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.83%",
     "time": 142,
-    "timeDay": 111,
-    "timeWeek": 143,
-    "timeMonth": 140,
+    "timeDay": 117,
+    "timeWeek": 144,
+    "timeMonth": 139,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2023-01-25": 19,
@@ -90,10 +90,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 78,
-    "timeWeek": 115,
-    "timeMonth": 113,
-    "timeYear": 149,
+    "timeDay": 49,
+    "timeWeek": 104,
+    "timeMonth": 107,
+    "timeYear": 148,
     "dailyMinutesDown": {
       "2023-01-10": 16
     }
@@ -104,16 +104,16 @@
     "icon": "https://remindcare.i3m.upv.es/brain.png",
     "slug": "re-mind-care-i3-m",
     "status": "up",
-    "uptime": "96.21%",
+    "uptime": "96.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.32%",
+    "uptimeYear": "96.35%",
     "time": 612,
-    "timeDay": 382,
-    "timeWeek": 507,
-    "timeMonth": 551,
-    "timeYear": 617,
+    "timeDay": 612,
+    "timeWeek": 525,
+    "timeMonth": 553,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2023-03-28": 16,
       "2023-02-02": 27,
@@ -179,8 +179,7 @@
       "2022-05-16": 412,
       "2022-05-14": 111,
       "2022-05-12": 112,
-      "2022-05-11": 22,
-      "2022-05-10": 17
+      "2022-05-11": 22
     }
   },
   {
@@ -189,15 +188,15 @@
     "icon": "https://ecnp-cdm.i3m.upv.es/favicon.ico",
     "slug": "ecnp-cdm",
     "status": "up",
-    "uptime": "97.51%",
+    "uptime": "97.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "81.53%",
+    "uptimeWeek": "95.81%",
     "uptimeMonth": "89.44%",
-    "uptimeYear": "97.62%",
+    "uptimeYear": "97.65%",
     "time": 540,
-    "timeDay": 484,
-    "timeWeek": 631,
-    "timeMonth": 562,
+    "timeDay": 530,
+    "timeWeek": 619,
+    "timeMonth": 563,
     "timeYear": 541,
     "dailyMinutesDown": {
       "2023-05-03": 468,
@@ -258,8 +257,7 @@
       "2022-05-24": 34,
       "2022-05-20": 34,
       "2022-05-16": 21,
-      "2022-05-11": 210,
-      "2022-05-10": 146
+      "2022-05-11": 210
     }
   }
 ]
