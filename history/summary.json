@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.79%",
-    "time": 781,
-    "timeDay": 552,
-    "timeWeek": 620,
-    "timeMonth": 932,
+    "time": 780,
+    "timeDay": 711,
+    "timeWeek": 632,
+    "timeMonth": 937,
     "timeYear": 794,
     "dailyMinutesDown": {
       "2023-03-24": 20,
@@ -48,15 +48,15 @@
     "icon": "https://appsgrycap.i3m.upv.es:31443/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-server",
     "status": "up",
-    "uptime": "98.81%",
+    "uptime": "98.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.83%",
     "time": 142,
-    "timeDay": 117,
-    "timeWeek": 144,
-    "timeMonth": 139,
+    "timeDay": 178,
+    "timeWeek": 149,
+    "timeMonth": 141,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2023-01-25": 19,
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 49,
-    "timeWeek": 104,
-    "timeMonth": 107,
+    "timeDay": 89,
+    "timeWeek": 88,
+    "timeMonth": 105,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2023-01-10": 16
@@ -104,15 +104,15 @@
     "icon": "https://remindcare.i3m.upv.es/brain.png",
     "slug": "re-mind-care-i3-m",
     "status": "up",
-    "uptime": "96.22%",
+    "uptime": "96.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.35%",
     "time": 612,
-    "timeDay": 612,
-    "timeWeek": 525,
-    "timeMonth": 553,
+    "timeDay": 575,
+    "timeWeek": 536,
+    "timeMonth": 555,
     "timeYear": 616,
     "dailyMinutesDown": {
       "2023-03-28": 16,
@@ -178,8 +178,7 @@
       "2022-05-17": 1440,
       "2022-05-16": 412,
       "2022-05-14": 111,
-      "2022-05-12": 112,
-      "2022-05-11": 22
+      "2022-05-12": 112
     }
   },
   {
@@ -188,15 +187,15 @@
     "icon": "https://ecnp-cdm.i3m.upv.es/favicon.ico",
     "slug": "ecnp-cdm",
     "status": "up",
-    "uptime": "97.52%",
+    "uptime": "97.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.81%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "89.44%",
-    "uptimeYear": "97.65%",
+    "uptimeYear": "97.68%",
     "time": 540,
-    "timeDay": 530,
-    "timeWeek": 619,
-    "timeMonth": 563,
+    "timeDay": 587,
+    "timeWeek": 558,
+    "timeMonth": 566,
     "timeYear": 541,
     "dailyMinutesDown": {
       "2023-05-03": 468,
@@ -256,8 +255,7 @@
       "2022-05-25": 29,
       "2022-05-24": 34,
       "2022-05-20": 34,
-      "2022-05-16": 21,
-      "2022-05-11": 210
+      "2022-05-16": 21
     }
   }
 ]
