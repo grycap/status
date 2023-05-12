@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.79%",
     "time": 780,
-    "timeDay": 711,
+    "timeDay": 569,
     "timeWeek": 632,
-    "timeMonth": 937,
-    "timeYear": 794,
+    "timeMonth": 926,
+    "timeYear": 793,
     "dailyMinutesDown": {
       "2023-03-24": 20,
       "2023-03-21": 15,
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.83%",
     "time": 142,
-    "timeDay": 178,
-    "timeWeek": 149,
-    "timeMonth": 141,
+    "timeDay": 136,
+    "timeWeek": 148,
+    "timeMonth": 139,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2023-01-25": 19,
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 89,
-    "timeWeek": 88,
-    "timeMonth": 105,
+    "timeDay": 102,
+    "timeWeek": 83,
+    "timeMonth": 102,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2023-01-10": 16
@@ -104,14 +104,14 @@
     "icon": "https://remindcare.i3m.upv.es/brain.png",
     "slug": "re-mind-care-i3-m",
     "status": "up",
-    "uptime": "96.23%",
+    "uptime": "96.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.35%",
     "time": 612,
-    "timeDay": 575,
-    "timeWeek": 536,
+    "timeDay": 560,
+    "timeWeek": 545,
     "timeMonth": 555,
     "timeYear": 616,
     "dailyMinutesDown": {
@@ -177,8 +177,7 @@
       "2022-05-18": 550,
       "2022-05-17": 1440,
       "2022-05-16": 412,
-      "2022-05-14": 111,
-      "2022-05-12": 112
+      "2022-05-14": 111
     }
   },
   {
@@ -191,11 +190,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.44%",
-    "uptimeYear": "97.68%",
+    "uptimeYear": "97.72%",
     "time": 540,
-    "timeDay": 587,
-    "timeWeek": 558,
-    "timeMonth": 566,
+    "timeDay": 515,
+    "timeWeek": 561,
+    "timeMonth": 565,
     "timeYear": 541,
     "dailyMinutesDown": {
       "2023-05-03": 468,
