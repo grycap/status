@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.79%",
     "time": 776,
-    "timeDay": 704,
-    "timeWeek": 589,
-    "timeMonth": 910,
+    "timeDay": 713,
+    "timeWeek": 620,
+    "timeMonth": 604,
     "timeYear": 793,
     "dailyMinutesDown": {
       "2023-03-24": 20,
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.83%",
     "time": 142,
-    "timeDay": 135,
-    "timeWeek": 133,
-    "timeMonth": 136,
+    "timeDay": 142,
+    "timeWeek": 137,
+    "timeMonth": 137,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2023-01-25": 19,
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 105,
-    "timeWeek": 92,
-    "timeMonth": 101,
+    "timeDay": 122,
+    "timeWeek": 98,
+    "timeMonth": 102,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2023-01-10": 16
@@ -104,15 +104,15 @@
     "icon": "https://remindcare.i3m.upv.es/brain.png",
     "slug": "re-mind-care-i3-m",
     "status": "up",
-    "uptime": "96.31%",
+    "uptime": "96.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.85%",
     "time": 612,
-    "timeDay": 525,
-    "timeWeek": 639,
-    "timeMonth": 574,
+    "timeDay": 518,
+    "timeWeek": 643,
+    "timeMonth": 570,
     "timeYear": 619,
     "dailyMinutesDown": {
       "2023-03-28": 16,
@@ -172,8 +172,7 @@
       "2022-06-02": 134,
       "2022-05-27": 52,
       "2022-05-25": 17,
-      "2022-05-24": 47,
-      "2022-05-20": 39
+      "2022-05-24": 47
     }
   },
   {
@@ -182,15 +181,15 @@
     "icon": "https://ecnp-cdm.i3m.upv.es/favicon.ico",
     "slug": "ecnp-cdm",
     "status": "up",
-    "uptime": "97.58%",
+    "uptime": "97.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.44%",
     "uptimeYear": "97.73%",
-    "time": 540,
-    "timeDay": 601,
-    "timeWeek": 529,
-    "timeMonth": 556,
+    "time": 539,
+    "timeDay": 510,
+    "timeWeek": 519,
+    "timeMonth": 549,
     "timeYear": 540,
     "dailyMinutesDown": {
       "2023-05-03": 468,
@@ -248,8 +247,7 @@
       "2022-06-01": 16,
       "2022-05-27": 50,
       "2022-05-25": 29,
-      "2022-05-24": 34,
-      "2022-05-20": 34
+      "2022-05-24": 34
     }
   }
 ]
