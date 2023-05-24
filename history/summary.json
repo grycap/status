@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.79%",
     "time": 775,
-    "timeDay": 628,
-    "timeWeek": 653,
-    "timeMonth": 608,
-    "timeYear": 794,
+    "timeDay": 426,
+    "timeWeek": 630,
+    "timeMonth": 603,
+    "timeYear": 793,
     "dailyMinutesDown": {
       "2023-03-24": 20,
       "2023-03-21": 15,
@@ -48,15 +48,15 @@
     "icon": "https://appsgrycap.i3m.upv.es:31443/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-server",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.83%",
-    "time": 142,
-    "timeDay": 147,
-    "timeWeek": 138,
-    "timeMonth": 137,
+    "time": 141,
+    "timeDay": 108,
+    "timeWeek": 133,
+    "timeMonth": 136,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2023-01-25": 19,
@@ -90,10 +90,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 126,
-    "timeWeek": 112,
-    "timeMonth": 104,
-    "timeYear": 148,
+    "timeDay": 43,
+    "timeWeek": 102,
+    "timeMonth": 101,
+    "timeYear": 147,
     "dailyMinutesDown": {
       "2023-01-10": 16
     }
@@ -104,15 +104,15 @@
     "icon": "https://remindcare.i3m.upv.es/brain.png",
     "slug": "re-mind-care-i3-m",
     "status": "up",
-    "uptime": "96.35%",
+    "uptime": "96.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.86%",
     "time": 612,
-    "timeDay": 512,
-    "timeWeek": 669,
-    "timeMonth": 569,
+    "timeDay": 497,
+    "timeWeek": 569,
+    "timeMonth": 568,
     "timeYear": 620,
     "dailyMinutesDown": {
       "2023-03-28": 16,
@@ -171,8 +171,7 @@
       "2022-06-03": 82,
       "2022-06-02": 134,
       "2022-05-27": 52,
-      "2022-05-25": 17,
-      "2022-05-24": 47
+      "2022-05-25": 17
     }
   },
   {
@@ -181,15 +180,15 @@
     "icon": "https://ecnp-cdm.i3m.upv.es/favicon.ico",
     "slug": "ecnp-cdm",
     "status": "up",
-    "uptime": "97.60%",
+    "uptime": "97.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.44%",
     "uptimeYear": "97.73%",
-    "time": 540,
-    "timeDay": 497,
-    "timeWeek": 544,
-    "timeMonth": 556,
+    "time": 539,
+    "timeDay": 366,
+    "timeWeek": 525,
+    "timeMonth": 551,
     "timeYear": 540,
     "dailyMinutesDown": {
       "2023-05-03": 468,
@@ -246,8 +245,7 @@
       "2022-06-02": 34,
       "2022-06-01": 16,
       "2022-05-27": 50,
-      "2022-05-25": 29,
-      "2022-05-24": 34
+      "2022-05-25": 29
     }
   }
 ]
