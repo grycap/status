@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.80%",
     "time": 768,
-    "timeDay": 942,
-    "timeWeek": 664,
-    "timeMonth": 634,
-    "timeYear": 790,
+    "timeDay": 631,
+    "timeWeek": 675,
+    "timeMonth": 631,
+    "timeYear": 788,
     "dailyMinutesDown": {
       "2023-03-24": 20,
       "2023-03-21": 15,
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.83%",
     "time": 142,
-    "timeDay": 178,
-    "timeWeek": 143,
-    "timeMonth": 144,
+    "timeDay": 109,
+    "timeWeek": 142,
+    "timeMonth": 142,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2023-01-25": 19,
@@ -87,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
-    "timeDay": 158,
-    "timeWeek": 92,
-    "timeMonth": 99,
-    "timeYear": 146,
+    "timeDay": 92,
+    "timeWeek": 93,
+    "timeMonth": 98,
+    "timeYear": 145,
     "dailyMinutesDown": {
       "2023-01-10": 16
     }
@@ -101,15 +101,15 @@
     "icon": "https://remindcare.i3m.upv.es/brain.png",
     "slug": "re-mind-care-i3-m",
     "status": "up",
-    "uptime": "96.54%",
+    "uptime": "96.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.93%",
+    "uptimeYear": "96.94%",
     "time": 615,
-    "timeDay": 571,
-    "timeWeek": 529,
-    "timeMonth": 669,
+    "timeDay": 579,
+    "timeWeek": 543,
+    "timeMonth": 665,
     "timeYear": 628,
     "dailyMinutesDown": {
       "2023-03-28": 16,
@@ -160,8 +160,7 @@
       "2022-06-22": 24,
       "2022-06-21": 29,
       "2022-06-20": 23,
-      "2022-06-17": 21,
-      "2022-06-14": 34
+      "2022-06-17": 21
     }
   },
   {
@@ -174,11 +173,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.78%",
-    "time": 553,
-    "timeDay": 563,
-    "timeWeek": 503,
-    "timeMonth": 729,
+    "uptimeYear": "97.79%",
+    "time": 552,
+    "timeDay": 490,
+    "timeWeek": 519,
+    "timeMonth": 727,
     "timeYear": 556,
     "dailyMinutesDown": {
       "2023-05-03": 468,
@@ -225,8 +224,7 @@
       "2022-06-20": 22,
       "2022-06-17": 20,
       "2022-06-16": 63,
-      "2022-06-15": 99,
-      "2022-06-14": 34
+      "2022-06-15": 99
     }
   }
 ]
