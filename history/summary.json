@@ -5,18 +5,19 @@
     "icon": "https://appsgrycap.i3m.upv.es:31443/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-dashboard",
     "status": "down",
-    "uptime": "98.20%",
+    "uptime": "97.99%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "47.92%",
-    "uptimeMonth": "88.02%",
-    "uptimeYear": "97.82%",
+    "uptimeWeek": "33.63%",
+    "uptimeMonth": "84.73%",
+    "uptimeYear": "97.65%",
     "time": 781,
     "timeDay": 0,
-    "timeWeek": 2875,
+    "timeWeek": 3346,
     "timeMonth": 1058,
     "timeYear": 823,
     "dailyMinutesDown": {
-      "2023-07-30": 49,
+      "2023-07-31": 50,
+      "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
@@ -37,8 +38,7 @@
       "2022-09-30": 35,
       "2022-08-03": 881,
       "2022-08-02": 1440,
-      "2022-08-01": 1440,
-      "2022-07-31": 1440
+      "2022-08-01": 1440
     }
   },
   {
@@ -47,18 +47,19 @@
     "icon": "https://appsgrycap.i3m.upv.es:31443/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-server",
     "status": "down",
-    "uptime": "98.23%",
+    "uptime": "98.01%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "48.09%",
-    "uptimeMonth": "88.05%",
-    "uptimeYear": "97.85%",
+    "uptimeWeek": "33.80%",
+    "uptimeMonth": "84.77%",
+    "uptimeYear": "97.68%",
     "time": 142,
     "timeDay": 0,
     "timeWeek": 110,
     "timeMonth": 137,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2023-07-30": 49,
+      "2023-07-31": 50,
+      "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
@@ -73,8 +74,7 @@
       "2022-09-30": 35,
       "2022-08-03": 881,
       "2022-08-02": 1440,
-      "2022-08-01": 1440,
-      "2022-07-31": 1440
+      "2022-08-01": 1440
     }
   },
   {
@@ -89,8 +89,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 81,
-    "timeWeek": 82,
+    "timeDay": 86,
+    "timeWeek": 84,
     "timeMonth": 99,
     "timeYear": 142,
     "dailyMinutesDown": {
