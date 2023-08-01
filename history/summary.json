@@ -5,18 +5,19 @@
     "icon": "https://appsgrycap.i3m.upv.es:31443/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-dashboard",
     "status": "down",
-    "uptime": "97.99%",
+    "uptime": "97.78%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "33.63%",
-    "uptimeMonth": "84.73%",
+    "uptimeWeek": "19.32%",
+    "uptimeMonth": "81.43%",
     "uptimeYear": "97.65%",
     "time": 781,
     "timeDay": 0,
-    "timeWeek": 3346,
-    "timeMonth": 1058,
+    "timeWeek": 4076,
+    "timeMonth": 1075,
     "timeYear": 823,
     "dailyMinutesDown": {
-      "2023-07-31": 50,
+      "2023-08-01": 52,
+      "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
@@ -37,8 +38,7 @@
       "2022-10-01": 193,
       "2022-09-30": 35,
       "2022-08-03": 881,
-      "2022-08-02": 1440,
-      "2022-08-01": 1440
+      "2022-08-02": 1440
     }
   },
   {
@@ -47,18 +47,19 @@
     "icon": "https://appsgrycap.i3m.upv.es:31443/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-server",
     "status": "down",
-    "uptime": "98.01%",
+    "uptime": "97.80%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "33.80%",
-    "uptimeMonth": "84.77%",
+    "uptimeWeek": "19.49%",
+    "uptimeMonth": "81.47%",
     "uptimeYear": "97.68%",
     "time": 142,
     "timeDay": 0,
-    "timeWeek": 110,
+    "timeWeek": 111,
     "timeMonth": 137,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2023-07-31": 50,
+      "2023-08-01": 52,
+      "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
@@ -73,8 +74,7 @@
       "2022-10-01": 193,
       "2022-09-30": 35,
       "2022-08-03": 881,
-      "2022-08-02": 1440,
-      "2022-08-01": 1440
+      "2022-08-02": 1440
     }
   },
   {
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 86,
-    "timeWeek": 84,
-    "timeMonth": 99,
+    "timeDay": 132,
+    "timeWeek": 95,
+    "timeMonth": 100,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2023-01-10": 16
