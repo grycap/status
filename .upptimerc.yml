@@ -6,13 +6,13 @@ assignees:
 
 sites:
   - name: IM-Dashboard
-    url: https://appsgrycap.i3m.upv.es:31443/im-dashboard/login
-    icon: https://appsgrycap.i3m.upv.es:31443/im-dashboard/static/images/favicon_io/favicon-32x32.png
+    url: https://appsgrycap.i3m.upv.es/im-dashboard/login
+    icon: https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png
     assignees:
       - micafer
   - name: IM Server
-    url: https://appsgrycap.i3m.upv.es:31443/im/version
-    icon: https://appsgrycap.i3m.upv.es:31443/im-dashboard/static/images/favicon_io/favicon-32x32.png
+    url: https://appsgrycap.i3m.upv.es/im/version
+    icon: https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png
     assignees:
       - micafer
   - name: Cloud Trail Tracker
