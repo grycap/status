@@ -1,8 +1,8 @@
 [
   {
     "name": "IM-Dashboard",
-    "url": "https://appsgrycap.i3m.upv.es:31443/im-dashboard/login",
-    "icon": "https://appsgrycap.i3m.upv.es:31443/im-dashboard/static/images/favicon_io/favicon-32x32.png",
+    "url": "https://appsgrycap.i3m.upv.es/im-dashboard/login",
+    "icon": "https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-dashboard",
     "status": "up",
     "uptime": "97.73%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "97.98%",
     "time": 785,
-    "timeDay": 586,
-    "timeWeek": 636,
-    "timeMonth": 865,
+    "timeDay": 623,
+    "timeWeek": 639,
+    "timeMonth": 859,
     "timeYear": 847,
     "dailyMinutesDown": {
       "2023-08-22": 16,
@@ -44,8 +44,8 @@
   },
   {
     "name": "IM Server",
-    "url": "https://appsgrycap.i3m.upv.es:31443/im/version",
-    "icon": "https://appsgrycap.i3m.upv.es:31443/im-dashboard/static/images/favicon_io/favicon-32x32.png",
+    "url": "https://appsgrycap.i3m.upv.es/im/version",
+    "icon": "https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-server",
     "status": "up",
     "uptime": "97.75%",
@@ -55,7 +55,7 @@
     "uptimeYear": "98.01%",
     "time": 142,
     "timeDay": 142,
-    "timeWeek": 123,
+    "timeWeek": 125,
     "timeMonth": 144,
     "timeYear": 144,
     "dailyMinutesDown": {
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 133,
-    "timeWeek": 96,
-    "timeMonth": 98,
+    "timeDay": 124,
+    "timeWeek": 98,
+    "timeMonth": 99,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2023-01-10": 16
