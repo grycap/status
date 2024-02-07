@@ -5,14 +5,14 @@
     "icon": "https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-dashboard",
     "status": "up",
-    "uptime": "98.19%",
+    "uptime": "98.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.03%",
     "time": 867,
-    "timeDay": 536,
-    "timeWeek": 616,
+    "timeDay": 662,
+    "timeWeek": 626,
     "timeMonth": 614,
     "timeYear": 856,
     "dailyMinutesDown": {
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.07%",
     "time": 143,
-    "timeDay": 109,
+    "timeDay": 113,
     "timeWeek": 120,
-    "timeMonth": 126,
+    "timeMonth": 125,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2023-12-21": 20,
@@ -84,10 +84,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 60,
-    "timeWeek": 73,
+    "timeDay": 54,
+    "timeWeek": 63,
     "timeMonth": 93,
-    "timeYear": 104,
+    "timeYear": 103,
     "dailyMinutesDown": {}
   }
 ]
