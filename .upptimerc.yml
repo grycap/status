@@ -20,6 +20,16 @@ sites:
     icon: https://raw.githubusercontent.com/grycap/cloudtrail-tracker-ui/master/static/logos/favicon.ico
     assignees:
       - gmolto
+  - name: EOSC IM Server Prod
+    url: https://kubeserver.vm.cesnet.cz/im/version
+    icon: https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png
+    assignees:
+      - micafer
+  - name: EOSC IM Server Staging
+    url: https://kubeserver.vm.cesnet.cz/im-staging/version
+    icon: https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png
+    assignees:
+      - micafer
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
