@@ -5,15 +5,15 @@
     "icon": "https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-dashboard",
     "status": "up",
-    "uptime": "98.20%",
-    "uptimeDay": "98.27%",
+    "uptime": "98.21%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.72%",
     "time": 757,
-    "timeDay": 687,
-    "timeWeek": 605,
-    "timeMonth": 604,
+    "timeDay": 448,
+    "timeWeek": 555,
+    "timeMonth": 598,
     "timeYear": 750,
     "dailyMinutesDown": {
       "2024-10-18": 25,
@@ -38,8 +38,7 @@
       "2023-11-14": 19,
       "2023-11-09": 29,
       "2023-10-23": 63,
-      "2023-10-22": 25,
-      "2023-10-21": 23
+      "2023-10-22": 25
     }
   },
   {
@@ -49,14 +48,14 @@
     "slug": "im-server",
     "status": "up",
     "uptime": "98.24%",
-    "uptimeDay": "98.30%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.77%",
     "time": 131,
-    "timeDay": 120,
+    "timeDay": 94,
     "timeWeek": 112,
-    "timeMonth": 120,
+    "timeMonth": 118,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2024-10-18": 24,
@@ -73,8 +72,7 @@
       "2024-03-22": 515,
       "2024-03-21": 522,
       "2023-12-21": 20,
-      "2023-10-22": 19,
-      "2023-10-21": 22
+      "2023-10-22": 19
     }
   },
   {
@@ -89,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 205,
-    "timeWeek": 109,
-    "timeMonth": 105,
+    "timeDay": 52,
+    "timeWeek": 94,
+    "timeMonth": 103,
     "timeYear": 108,
     "dailyMinutesDown": {}
   },
@@ -106,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 777,
-    "timeDay": 821,
-    "timeWeek": 719,
-    "timeMonth": 934,
-    "timeYear": 777,
+    "time": 776,
+    "timeDay": 636,
+    "timeWeek": 736,
+    "timeMonth": 930,
+    "timeYear": 776,
     "dailyMinutesDown": {}
   },
   {
@@ -124,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 154,
-    "timeWeek": 125,
-    "timeMonth": 134,
-    "timeYear": 128,
+    "time": 127,
+    "timeDay": 99,
+    "timeWeek": 124,
+    "timeMonth": 132,
+    "timeYear": 127,
     "dailyMinutesDown": {}
   }
 ]
