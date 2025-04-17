@@ -117,18 +117,20 @@
     "url": "https://inference-walton.cloud.imagine-ai.eu",
     "icon": "https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico",
     "slug": "oscar-cluster-i-magine",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 877,
-    "timeDay": 1063,
-    "timeWeek": 877,
-    "timeMonth": 877,
-    "timeYear": 877,
-    "dailyMinutesDown": {}
+    "time": 858,
+    "timeDay": 914,
+    "timeWeek": 858,
+    "timeMonth": 858,
+    "timeYear": 858,
+    "dailyMinutesDown": {
+      "2025-04-17": 0
+    }
   },
   {
     "name": "OSCAR Cluster - interTwin",
