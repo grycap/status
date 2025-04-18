@@ -11,9 +11,9 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.79%",
     "time": 634,
-    "timeDay": 622,
-    "timeWeek": 588,
-    "timeMonth": 666,
+    "timeDay": 627,
+    "timeWeek": 586,
+    "timeMonth": 661,
     "timeYear": 628,
     "dailyMinutesDown": {
       "2025-03-25": 52,
@@ -26,8 +26,7 @@
       "2024-07-22": 31,
       "2024-06-26": 50,
       "2024-06-25": 8,
-      "2024-06-20": 235,
-      "2024-04-18": 20
+      "2024-06-20": 235
     }
   },
   {
@@ -42,8 +41,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 121,
-    "timeDay": 148,
-    "timeWeek": 110,
+    "timeDay": 146,
+    "timeWeek": 113,
     "timeMonth": 115,
     "timeYear": 117,
     "dailyMinutesDown": {
@@ -54,8 +53,7 @@
       "2024-07-22": 31,
       "2024-06-26": 50,
       "2024-06-25": 8,
-      "2024-06-20": 234,
-      "2024-04-18": 20
+      "2024-06-20": 234
     }
   },
   {
@@ -70,10 +68,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 121,
-    "timeWeek": 156,
+    "timeDay": 100,
+    "timeWeek": 151,
     "timeMonth": 139,
-    "timeYear": 116,
+    "timeYear": 115,
     "dailyMinutesDown": {}
   },
   {
@@ -87,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 720,
-    "timeDay": 857,
-    "timeWeek": 720,
-    "timeMonth": 720,
-    "timeYear": 720,
+    "time": 753,
+    "timeDay": 914,
+    "timeWeek": 753,
+    "timeMonth": 753,
+    "timeYear": 753,
     "dailyMinutesDown": {}
   },
   {
@@ -105,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 912,
-    "timeDay": 1004,
-    "timeWeek": 912,
-    "timeMonth": 912,
-    "timeYear": 912,
+    "time": 953,
+    "timeDay": 1155,
+    "timeWeek": 953,
+    "timeMonth": 953,
+    "timeYear": 953,
     "dailyMinutesDown": {}
   },
   {
@@ -118,16 +116,16 @@
     "icon": "https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico",
     "slug": "oscar-cluster-i-magine",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.46%",
     "uptimeDay": "97.85%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "99.37%",
-    "time": 922,
-    "timeDay": 1043,
-    "timeWeek": 922,
-    "timeMonth": 922,
-    "timeYear": 922,
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
+    "time": 939,
+    "timeDay": 1042,
+    "timeWeek": 939,
+    "timeMonth": 939,
+    "timeYear": 939,
     "dailyMinutesDown": {
       "2025-04-17": 31
     }
@@ -143,11 +141,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 634,
-    "timeDay": 933,
-    "timeWeek": 634,
-    "timeMonth": 634,
-    "timeYear": 634,
+    "time": 666,
+    "timeDay": 829,
+    "timeWeek": 666,
+    "timeMonth": 666,
+    "timeYear": 666,
     "dailyMinutesDown": {}
   }
 ]
