@@ -97,10 +97,10 @@
     "url": "https://inference.cloud.ai4eosc.eu",
     "icon": "https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico",
     "slug": "oscar-cluster-ai-4-eosc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 956,
@@ -108,7 +108,9 @@
     "timeWeek": 939,
     "timeMonth": 956,
     "timeYear": 956,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-28": 1
+    }
   },
   {
     "name": "OSCAR Cluster - iMagine",
@@ -136,11 +138,11 @@
     "icon": "https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico",
     "slug": "oscar-cluster-inter-twin",
     "status": "up",
-    "uptime": "98.89%",
+    "uptime": "98.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.22%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "98.89%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "98.93%",
     "time": 659,
     "timeDay": 689,
     "timeWeek": 683,
