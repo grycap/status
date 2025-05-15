@@ -41,12 +41,21 @@ sites:
       - slangarita
       - catttam 
       - gmolto
-  - name: OSCAR Cluster - interTwin
+  - name: OSCAR Cluster - interTwin (GRNET)
+    url: https://oscar-grnet.intertwin.fedcloud.eu
+    icon: https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico
+    assignees:
+      - slangarita
+      - catttam
+      - esparig 
+      - gmolto
+  - name: OSCAR Cluster - interTwin (UKRI)
     url: https://oscar-ukri.intertwin.fedcloud.eu
     icon: https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico
     assignees:
       - slangarita
-      - catttam 
+      - catttam
+      - esparig 
       - gmolto
 #  - name: EOSC IM Server Prod
 #    url: https://kubeserver.vm.cesnet.cz/im/version
