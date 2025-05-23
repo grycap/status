@@ -102,11 +102,11 @@
     "icon": "https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico",
     "slug": "oscar-cluster-ai-4-eosc",
     "status": "up",
-    "uptime": "90.11%",
+    "uptime": "90.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.08%",
-    "uptimeYear": "90.11%",
+    "uptimeYear": "90.13%",
     "time": 1026,
     "timeDay": 817,
     "timeWeek": 857,
@@ -163,19 +163,19 @@
     "url": "https://oscar-ukri.intertwin.fedcloud.eu",
     "icon": "https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico",
     "slug": "oscar-cluster-inter-twin-ukri",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 534,
     "timeDay": 494,
     "timeWeek": 541,
     "timeMonth": 534,
     "timeYear": 534,
     "dailyMinutesDown": {
-      "2025-05-23": 12
+      "2025-05-23": 0
     }
   }
 ]
