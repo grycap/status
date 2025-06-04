@@ -1,7 +1,7 @@
 url: https://oscar.test.fedcloud.eu
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-03T23:20:04.133Z
+status: up
+code: 200
+responseTime: 651
+lastUpdated: 2025-06-04T07:25:05.953Z
 startTime: 2025-04-14T00:38:48.869Z
 generator: Upptime <https://github.com/upptime/upptime>
