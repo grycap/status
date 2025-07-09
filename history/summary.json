@@ -12,7 +12,7 @@
     "uptimeYear": "99.83%",
     "time": 636,
     "timeDay": 650,
-    "timeWeek": 650,
+    "timeWeek": 629,
     "timeMonth": 603,
     "timeYear": 638,
     "dailyMinutesDown": {
@@ -40,7 +40,7 @@
     "uptimeYear": "99.83%",
     "time": 118,
     "timeDay": 154,
-    "timeWeek": 127,
+    "timeWeek": 124,
     "timeMonth": 117,
     "timeYear": 115,
     "dailyMinutesDown": {
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 118,
     "timeDay": 93,
-    "timeWeek": 147,
+    "timeWeek": 149,
     "timeMonth": 148,
     "timeYear": 122,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "96.79%",
     "time": 798,
     "timeDay": 915,
-    "timeWeek": 800,
+    "timeWeek": 783,
     "timeMonth": 750,
     "timeYear": 798,
     "dailyMinutesDown": {
@@ -116,7 +116,7 @@
     "uptimeYear": "95.48%",
     "time": 995,
     "timeDay": 1110,
-    "timeWeek": 965,
+    "timeWeek": 947,
     "timeMonth": 940,
     "timeYear": 995,
     "dailyMinutesDown": {
@@ -140,7 +140,7 @@
     "uptimeYear": "99.96%",
     "time": 1029,
     "timeDay": 1284,
-    "timeWeek": 930,
+    "timeWeek": 881,
     "timeMonth": 894,
     "timeYear": 1029,
     "dailyMinutesDown": {
@@ -161,7 +161,7 @@
     "uptimeYear": "100.00%",
     "time": 896,
     "timeDay": 1107,
-    "timeWeek": 918,
+    "timeWeek": 898,
     "timeMonth": 903,
     "timeYear": 896,
     "dailyMinutesDown": {}
@@ -171,15 +171,15 @@
     "url": "https://oscar-ukri.intertwin.fedcloud.eu",
     "icon": "https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico",
     "slug": "oscar-cluster-inter-twin-ukri",
-    "status": "up",
+    "status": "down",
     "uptime": "95.26%",
-    "uptimeDay": "46.31%",
+    "uptimeDay": "47.88%",
     "uptimeWeek": "79.93%",
     "uptimeMonth": "95.29%",
     "uptimeYear": "95.26%",
     "time": 785,
     "timeDay": 1583,
-    "timeWeek": 1133,
+    "timeWeek": 1142,
     "timeMonth": 898,
     "timeYear": 785,
     "dailyMinutesDown": {
