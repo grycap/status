@@ -1,7 +1,7 @@
 url: https://appsgrycap.i3m.upv.es/im/version
-status: down
-code: 502
-responseTime: 91
-lastUpdated: 2025-07-29T14:56:32.621Z
+status: up
+code: 200
+responseTime: 95
+lastUpdated: 2025-07-29T15:32:52.501Z
 startTime: 2022-04-29T08:51:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
