@@ -1,7 +1,7 @@
 url: https://oscar-grnet.intertwin.fedcloud.eu
-status: down
-code: 503
-responseTime: 699
-lastUpdated: 2025-08-21T23:18:00.733Z
+status: up
+code: 200
+responseTime: 933
+lastUpdated: 2025-08-22T11:47:17.465Z
 startTime: 2025-05-15T11:21:56.008Z
 generator: Upptime <https://github.com/upptime/upptime>
