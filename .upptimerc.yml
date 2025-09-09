@@ -25,31 +25,36 @@ sites:
     icon: https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico
     assignees:
       - slangarita
+      - RK181
       - gmolto 
   - name: OSCAR Cluster - AI4EOSC
     url: https://inference.cloud.ai4eosc.eu
     icon: https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico
     assignees:
       - slangarita
+      - RK181
       - gmolto
   - name: OSCAR Cluster - iMagine
     url: https://inference-walton.cloud.imagine-ai.eu
     icon: https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico
     assignees:
       - slangarita
+      - RK181
       - gmolto
   - name: OSCAR Cluster - interTwin (GRNET)
     url: https://oscar-grnet.intertwin.fedcloud.eu
     icon: https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico
     assignees:
       - slangarita
-      - esparig 
+      - RK181
+      - esparig
       - gmolto
   - name: OSCAR Cluster - interTwin (UKRI)
     url: https://oscar-ukri.intertwin.fedcloud.eu
     icon: https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico
     assignees:
       - slangarita
+      - RK181
       - esparig 
       - gmolto
 #  - name: EOSC IM Server Prod
