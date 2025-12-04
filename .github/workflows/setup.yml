@@ -17,6 +17,8 @@
 name: Setup CI
 on:
   push:
+    branches:
+      - master
     paths:
       - ".upptimerc.yml"
   repository_dispatch:
@@ -25,6 +27,7 @@ on:
 jobs:
   release:
     name: Setup Upptime
+    if: github.ref == 'refs/heads/master'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
