@@ -41,14 +41,6 @@ sites:
       - slangarita
       - RK181
       - gmolto
-  - name: OSCAR Cluster - interTwin (UKRI)
-    url: https://oscar-ukri.intertwin.fedcloud.eu
-    icon: https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico
-    assignees:
-      - slangarita
-      - RK181
-      - esparig 
-      - gmolto
 #  - name: EOSC IM Server Prod
 #    url: https://kubeserver.vm.cesnet.cz/im/version
 #    icon: https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png
