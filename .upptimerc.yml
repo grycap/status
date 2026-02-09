@@ -41,6 +41,13 @@ sites:
       - slangarita
       - RK181
       - gmolto
+  - name: OSCAR Cluster - EOSC-DC
+    url: https://oscar.vre.eosc-data-commons.eu
+    icon: https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico
+    assignees:
+      - slangarita
+      - RK181
+      - gmolto
 #  - name: EOSC IM Server Prod
 #    url: https://kubeserver.vm.cesnet.cz/im/version
 #    icon: https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png
