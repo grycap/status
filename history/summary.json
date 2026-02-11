@@ -225,19 +225,19 @@
     "url": "https://oscar.vre.eosc-data-commons.eu",
     "icon": "https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico",
     "slug": "oscar-cluster-eosc-dc",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1487,
-    "timeDay": 1320,
-    "timeWeek": 1487,
-    "timeMonth": 1487,
-    "timeYear": 1487,
+    "status": "up",
+    "uptime": "97.84%",
+    "uptimeDay": "95.90%",
+    "uptimeWeek": "97.84%",
+    "uptimeMonth": "97.84%",
+    "uptimeYear": "97.84%",
+    "time": 1363,
+    "timeDay": 1170,
+    "timeWeek": 1363,
+    "timeMonth": 1363,
+    "timeYear": 1363,
     "dailyMinutesDown": {
-      "2026-02-11": 0
+      "2026-02-11": 59
     }
   }
 ]
