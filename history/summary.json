@@ -174,11 +174,11 @@
     "icon": "https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico",
     "slug": "oscar-cluster-ai-4-eosc",
     "status": "up",
-    "uptime": "96.36%",
+    "uptime": "96.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.47%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "96.36%",
+    "uptimeYear": "96.37%",
     "time": 1329,
     "timeDay": 2515,
     "timeWeek": 1435,
@@ -222,9 +222,9 @@
     "url": "https://inference-walton.cloud.imagine-ai.eu",
     "icon": "https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico",
     "slug": "oscar-cluster-i-magine",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -234,6 +234,7 @@
     "timeMonth": 1304,
     "timeYear": 1190,
     "dailyMinutesDown": {
+      "2026-03-01": 0,
       "2025-06-02": 20,
       "2025-04-17": 31
     }
