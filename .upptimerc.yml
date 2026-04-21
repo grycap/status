@@ -10,11 +10,13 @@ sites:
     icon: https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png
     assignees:
       - micafer
+      - gmolto
   - name: IM Server
     url: https://appsgrycap.i3m.upv.es/im/version
     icon: https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png
     assignees:
       - micafer
+      - gmolto
   - name: CloudTrail-Tracker
     url: https://cloudtrailtracker.cursocloudaws.net/
     icon: https://raw.githubusercontent.com/grycap/cloudtrail-tracker-ui/master/static/logos/favicon.ico
