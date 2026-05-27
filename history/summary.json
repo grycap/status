@@ -6,13 +6,13 @@
     "slug": "im-dashboard",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "97.29%",
-    "uptimeMonth": "99.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.37%",
+    "uptimeMonth": "99.04%",
     "uptimeYear": "98.06%",
     "time": 678,
-    "timeDay": 734,
-    "timeWeek": 802,
+    "timeDay": 880,
+    "timeWeek": 830,
     "timeMonth": 773,
     "timeYear": 680,
     "dailyMinutesDown": {
@@ -84,9 +84,7 @@
       "2026-04-27": 2,
       "2026-04-29": 76,
       "2026-05-18": 78,
-      "2026-05-24": 265,
-      "2026-05-27": 5,
-      "2026-05-26": 3
+      "2026-05-24": 265
     }
   },
   {
@@ -95,14 +93,14 @@
     "icon": "https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-server",
     "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "97.39%",
-    "uptimeMonth": "99.06%",
+    "uptime": "99.18%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.42%",
+    "uptimeMonth": "99.07%",
     "uptimeYear": "98.05%",
     "time": 135,
-    "timeDay": 473,
-    "timeWeek": 512,
+    "timeDay": 566,
+    "timeWeek": 521,
     "timeMonth": 429,
     "timeYear": 141,
     "dailyMinutesDown": {
@@ -174,8 +172,7 @@
       "2026-04-27": 2,
       "2026-04-29": 76,
       "2026-05-18": 73,
-      "2026-05-24": 260,
-      "2026-05-27": 3
+      "2026-05-24": 260
     }
   },
   {
@@ -190,8 +187,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 76,
-    "timeWeek": 121,
+    "timeDay": 60,
+    "timeWeek": 118,
     "timeMonth": 137,
     "timeYear": 156,
     "dailyMinutesDown": {}
@@ -208,8 +205,8 @@
     "uptimeMonth": "97.15%",
     "uptimeYear": "98.97%",
     "time": 976,
-    "timeDay": 1626,
-    "timeWeek": 1433,
+    "timeDay": 2087,
+    "timeWeek": 1413,
     "timeMonth": 1323,
     "timeYear": 999,
     "dailyMinutesDown": {
@@ -242,8 +239,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.88%",
     "time": 1305,
-    "timeDay": 2310,
-    "timeWeek": 2063,
+    "timeDay": 2732,
+    "timeWeek": 2083,
     "timeMonth": 1597,
     "timeYear": 1334,
     "dailyMinutesDown": {
@@ -286,8 +283,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.72%",
     "time": 1183,
-    "timeDay": 1462,
-    "timeWeek": 1426,
+    "timeDay": 1649,
+    "timeWeek": 1376,
     "timeMonth": 1426,
     "timeYear": 1191,
     "dailyMinutesDown": {
@@ -307,14 +304,14 @@
     "icon": "https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico",
     "slug": "oscar-cluster-eosc-dc",
     "status": "up",
-    "uptime": "96.21%",
+    "uptime": "96.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "96.21%",
+    "uptimeYear": "96.22%",
     "time": 1459,
-    "timeDay": 4268,
-    "timeWeek": 2603,
+    "timeDay": 2816,
+    "timeWeek": 2769,
     "timeMonth": 1963,
     "timeYear": 1459,
     "dailyMinutesDown": {
