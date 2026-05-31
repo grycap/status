@@ -4,15 +4,15 @@
     "url": "https://appsgrycap.i3m.upv.es/im-dashboard/login",
     "icon": "https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "99.22%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "98.06%",
     "time": 679,
     "timeDay": 767,
-    "timeWeek": 829,
+    "timeWeek": 787,
     "timeMonth": 778,
     "timeYear": 681,
     "dailyMinutesDown": {
@@ -84,7 +84,8 @@
       "2026-04-27": 2,
       "2026-04-29": 76,
       "2026-05-18": 78,
-      "2026-05-24": 265
+      "2026-05-24": 265,
+      "2026-05-31": 5
     }
   },
   {
@@ -92,15 +93,15 @@
     "url": "https://appsgrycap.i3m.upv.es/im/version",
     "icon": "https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.88%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.24%",
     "uptimeYear": "98.07%",
     "time": 137,
     "timeDay": 600,
-    "timeWeek": 519,
+    "timeWeek": 491,
     "timeMonth": 480,
     "timeYear": 145,
     "dailyMinutesDown": {
@@ -172,7 +173,8 @@
       "2026-04-27": 2,
       "2026-04-29": 76,
       "2026-05-18": 73,
-      "2026-05-24": 260
+      "2026-05-24": 260,
+      "2026-05-31": 0
     }
   },
   {
@@ -302,11 +304,11 @@
     "icon": "https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico",
     "slug": "oscar-cluster-eosc-dc",
     "status": "up",
-    "uptime": "96.35%",
+    "uptime": "96.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "96.35%",
+    "uptimeYear": "96.36%",
     "time": 1477,
     "timeDay": 2224,
     "timeWeek": 2611,
