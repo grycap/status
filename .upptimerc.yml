@@ -57,27 +57,7 @@ sites:
       - SergioLangaritaBenitez
       - RK181
       - gmolto
-  - name: OSCAR Cluster - GPU
-    url: https://inference.gpu.im.grycap.net
-    icon: https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico
-    assignees:
-      - SergioLangaritaBenitez
-      - RK181
-      - gmolto
-  - name: OSCAR Cluster - TFM1
-    url: https://wizardly-ganguly5.im.grycap.net
-    icon: https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico
-    assignees:
-      - SergioLangaritaBenitez
-      - RK181
-      - gmolto
-  - name: OSCAR Cluster - TFM2
-    url: https://competent-sanderson0.im.grycap.net
-    icon: https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico
-    assignees:
-      - SergioLangaritaBenitez
-      - RK181
-      - gmolto
+
 #  - name: EOSC IM Server Prod
 #    url: https://kubeserver.vm.cesnet.cz/im/version
 #    icon: https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png
