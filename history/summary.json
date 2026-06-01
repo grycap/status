@@ -4,17 +4,17 @@
     "url": "https://appsgrycap.i3m.upv.es/im-dashboard/login",
     "icon": "https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-dashboard",
-    "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "98.09%",
-    "uptimeMonth": "98.78%",
-    "uptimeYear": "98.02%",
+    "status": "up",
+    "uptime": "99.22%",
+    "uptimeDay": "87.39%",
+    "uptimeWeek": "96.39%",
+    "uptimeMonth": "98.39%",
+    "uptimeYear": "97.99%",
     "time": 679,
-    "timeDay": 543,
-    "timeWeek": 674,
-    "timeMonth": 751,
-    "timeYear": 680,
+    "timeDay": 538,
+    "timeWeek": 661,
+    "timeMonth": 744,
+    "timeYear": 679,
     "dailyMinutesDown": {
       "2025-08-04": 654,
       "2025-08-03": 1440,
@@ -86,7 +86,7 @@
       "2026-05-18": 78,
       "2026-05-24": 265,
       "2026-05-31": 183,
-      "2026-06-01": 10
+      "2026-06-01": 182
     }
   },
   {
@@ -94,16 +94,16 @@
     "url": "https://appsgrycap.i3m.upv.es/im/version",
     "icon": "https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-server",
-    "status": "down",
-    "uptime": "99.18%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "98.18%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "98.03%",
-    "time": 140,
-    "timeDay": 438,
-    "timeWeek": 482,
-    "timeMonth": 475,
+    "status": "up",
+    "uptime": "99.17%",
+    "uptimeDay": "87.73%",
+    "uptimeWeek": "96.48%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "98.00%",
+    "time": 141,
+    "timeDay": 424,
+    "timeWeek": 472,
+    "timeMonth": 472,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2025-07-29": 36,
@@ -176,7 +176,7 @@
       "2026-05-18": 73,
       "2026-05-24": 260,
       "2026-05-31": 178,
-      "2026-06-01": 5
+      "2026-06-01": 177
     }
   },
   {
@@ -203,7 +203,7 @@
     "icon": "https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico",
     "slug": "oscar-cluster-sandbox",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.15%",
@@ -331,19 +331,19 @@
     "url": "https://keycloak.grycap.net/admin/master/console",
     "icon": "https://raw.githubusercontent.com/grycap/status/refs/heads/master/assets/keycloak.svg",
     "slug": "g-ry-cap-keycloak",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 914,
-    "timeDay": 914,
-    "timeWeek": 914,
-    "timeMonth": 914,
-    "timeYear": 914,
+    "status": "up",
+    "uptime": "80.34%",
+    "uptimeDay": "80.34%",
+    "uptimeWeek": "80.34%",
+    "uptimeMonth": "80.34%",
+    "uptimeYear": "80.34%",
+    "time": 910,
+    "timeDay": 910,
+    "timeWeek": 910,
+    "timeMonth": 910,
+    "timeYear": 910,
     "dailyMinutesDown": {
-      "2026-06-01": 0
+      "2026-06-01": 172
     }
   }
 ]
