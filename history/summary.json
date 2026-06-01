@@ -6,7 +6,7 @@
     "slug": "im-dashboard",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "87.31%",
+    "uptimeDay": "91.41%",
     "uptimeWeek": "98.19%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "98.02%",
@@ -95,7 +95,7 @@
     "slug": "im-server",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "87.65%",
+    "uptimeDay": "91.41%",
     "uptimeWeek": "98.24%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "98.03%",
@@ -233,7 +233,7 @@
     "icon": "https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico",
     "slug": "oscar-cluster-ai-4-eosc",
     "status": "up",
-    "uptime": "97.17%",
+    "uptime": "97.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -323,5 +323,23 @@
       "2026-03-27": 1440,
       "2026-05-04": 102
     }
+  },
+  {
+    "name": "GRyCAP Keycloak",
+    "url": "https://keycloak.grycap.net/admin/master/console",
+    "icon": "https://raw.githubusercontent.com/grycap/status/refs/heads/master/assets/keycloak.svg",
+    "slug": "g-ry-cap-keycloak",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
