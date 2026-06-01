@@ -50,6 +50,14 @@ sites:
       - SergioLangaritaBenitez
       - RK181
       - gmolto
+  - name: GRyCAP Keycloak
+    url: https://keycloak.grycap.net/admin/master/console
+    icon: https://raw.githubusercontent.com/grycap/status/refs/heads/master/assets/keycloak.svg
+    assignees:
+      - SergioLangaritaBenitez
+      - RK181
+      - gmolto
+
 #  - name: EOSC IM Server Prod
 #    url: https://kubeserver.vm.cesnet.cz/im/version
 #    icon: https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png
