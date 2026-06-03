@@ -4,11 +4,11 @@
     "url": "https://appsgrycap.i3m.upv.es/im-dashboard/login",
     "icon": "https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.39%",
-    "uptimeMonth": "98.39%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "96.29%",
+    "uptimeMonth": "98.36%",
     "uptimeYear": "97.99%",
     "time": 679,
     "timeDay": 781,
@@ -86,7 +86,8 @@
       "2026-05-18": 78,
       "2026-05-24": 265,
       "2026-05-31": 183,
-      "2026-06-01": 182
+      "2026-06-01": 182,
+      "2026-06-03": 10
     }
   },
   {
@@ -94,11 +95,11 @@
     "url": "https://appsgrycap.i3m.upv.es/im/version",
     "icon": "https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.48%",
-    "uptimeMonth": "98.43%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "96.43%",
+    "uptimeMonth": "98.42%",
     "uptimeYear": "98.00%",
     "time": 142,
     "timeDay": 584,
@@ -176,7 +177,8 @@
       "2026-05-18": 73,
       "2026-05-24": 260,
       "2026-05-31": 178,
-      "2026-06-01": 177
+      "2026-06-01": 177,
+      "2026-06-03": 5
     }
   },
   {
@@ -303,11 +305,11 @@
     "icon": "https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico",
     "slug": "oscar-cluster-eosc-dc",
     "status": "up",
-    "uptime": "96.45%",
+    "uptime": "96.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "96.45%",
+    "uptimeYear": "96.46%",
     "time": 1508,
     "timeDay": 2831,
     "timeWeek": 2068,
@@ -328,19 +330,20 @@
     "url": "https://keycloak.grycap.net/admin/master/console",
     "icon": "https://raw.githubusercontent.com/grycap/status/refs/heads/master/assets/keycloak.svg",
     "slug": "g-ry-cap-keycloak",
-    "status": "up",
-    "uptime": "93.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.50%",
-    "uptimeMonth": "93.50%",
-    "uptimeYear": "93.50%",
+    "status": "down",
+    "uptime": "94.03%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "94.03%",
+    "uptimeMonth": "94.03%",
+    "uptimeYear": "94.03%",
     "time": 1011,
     "timeDay": 1246,
     "timeWeek": 1011,
     "timeMonth": 1011,
     "timeYear": 1011,
     "dailyMinutesDown": {
-      "2026-06-01": 172
+      "2026-06-01": 172,
+      "2026-06-03": 0
     }
   }
 ]
