@@ -8,6 +8,8 @@ sites:
   - name: IM-Dashboard
     url: https://appsgrycap.i3m.upv.es/im-dashboard/login
     icon: https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png
+    type: globalping
+    location: Western Europe
     assignees:
       - micafer
       - gmolto
