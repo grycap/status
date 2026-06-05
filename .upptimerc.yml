@@ -16,6 +16,8 @@ sites:
   - name: IM Server
     url: https://appsgrycap.i3m.upv.es/im/version
     icon: https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png
+    type: globalping
+    location: Western Europe
     assignees:
       - micafer
       - gmolto
@@ -55,6 +57,8 @@ sites:
   - name: GRyCAP Keycloak
     url: https://keycloak.grycap.net/admin/master/console
     icon: https://raw.githubusercontent.com/grycap/status/refs/heads/master/assets/keycloak.svg
+    type: globalping
+    location: Western Europe
     assignees:
       - SergioLangaritaBenitez
       - RK181
