@@ -24,11 +24,15 @@ sites:
   - name: CloudTrail-Tracker
     url: https://cloudtrailtracker.cursocloudaws.net/
     icon: https://raw.githubusercontent.com/grycap/cloudtrail-tracker-ui/master/static/logos/favicon.ico
+    type: globalping
+    location: Western Europe
     assignees:
       - gmolto
   - name: OSCAR Cluster - Sandbox
     url: https://oscar.test.fedcloud.eu
     icon: https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico
+    type: globalping
+    location: Western Europe
     assignees:
       - SergioLangaritaBenitez
       - RK181
@@ -36,6 +40,8 @@ sites:
   - name: OSCAR Cluster - AI4EOSC
     url: https://inference.cloud.ai4eosc.eu
     icon: https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico
+    type: globalping
+    location: Western Europe
     assignees:
       - SergioLangaritaBenitez
       - RK181
@@ -43,6 +49,8 @@ sites:
   - name: OSCAR Cluster - iMagine
     url: https://inference-walton.cloud.imagine-ai.eu
     icon: https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico
+    type: globalping
+    location: Western Europe
     assignees:
       - SergioLangaritaBenitez
       - RK181
@@ -50,6 +58,8 @@ sites:
   - name: OSCAR Cluster - EOSC-DC
     url: https://oscar.vre.eosc-data-commons.eu
     icon: https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico
+    type: globalping
+    location: Western Europe
     assignees:
       - SergioLangaritaBenitez
       - RK181
