@@ -220,17 +220,17 @@
     "url": "https://inference.cloud.ai4eosc.eu",
     "icon": "https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico",
     "slug": "oscar-cluster-ai-4-eosc",
-    "status": "down",
-    "uptime": "97.75%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
-    "time": 1200,
-    "timeDay": 296,
-    "timeWeek": 247,
-    "timeMonth": 268,
-    "timeYear": 1078,
+    "status": "up",
+    "uptime": "97.72%",
+    "uptimeDay": "83.37%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.82%",
+    "time": 1198,
+    "timeDay": 310,
+    "timeWeek": 256,
+    "timeMonth": 269,
+    "timeYear": 1076,
     "dailyMinutesDown": {
       "2025-09-15": 39,
       "2025-09-16": 79,
@@ -240,7 +240,7 @@
       "2025-11-28": 87,
       "2025-12-02": 323,
       "2026-02-23": 54,
-      "2026-09-14": 1
+      "2026-09-14": 240
     }
   },
   {
