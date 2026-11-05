@@ -36,7 +36,16 @@ sites:
     assignees:
       - SergioLangaritaBenitez
       - RK181
-      - gmolto 
+      - gmolto
+  - name: OSCAR Cluster - Run
+    url: https://run.oscar.grycap.net
+    icon: https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico
+    type: globalping
+    location: Western Europe
+    assignees:
+      - SergioLangaritaBenitez
+      - RK181
+      - gmolto
   - name: OSCAR Cluster - AI4EOSC
     url: https://inference.cloud.ai4eosc.eu
     icon: https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico
