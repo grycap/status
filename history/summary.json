@@ -92,9 +92,9 @@
     "url": "https://appsgrycap.i3m.upv.es/im/version",
     "icon": "https://appsgrycap.i3m.upv.es/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-server",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.76%",
@@ -171,7 +171,8 @@
       "2026-06-01": 177,
       "2026-06-03": 290,
       "2026-06-04": 128,
-      "2026-06-05": 114
+      "2026-06-05": 114,
+      "2026-11-14": 0
     }
   },
   {
@@ -221,11 +222,11 @@
     "icon": "https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico",
     "slug": "oscar-cluster-run",
     "status": "up",
-    "uptime": "89.52%",
+    "uptime": "89.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.52%",
-    "uptimeYear": "89.52%",
+    "uptimeMonth": "89.67%",
+    "uptimeYear": "89.67%",
     "time": 192,
     "timeDay": 0,
     "timeWeek": 194,
