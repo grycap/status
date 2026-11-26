@@ -198,9 +198,9 @@
     "url": "https://oscar.test.fedcloud.eu",
     "icon": "https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico",
     "slug": "oscar-cluster-sandbox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
@@ -213,7 +213,8 @@
       "2026-05-13": 499,
       "2026-05-12": 748,
       "2026-10-09": 570,
-      "2026-10-08": 95
+      "2026-10-08": 95,
+      "2026-11-26": 0
     }
   },
   {
@@ -222,11 +223,11 @@
     "icon": "https://raw.githubusercontent.com/grycap/oscar-dashboard/refs/heads/main/src/assets/logos/favicon.ico",
     "slug": "oscar-cluster-run",
     "status": "up",
-    "uptime": "95.59%",
+    "uptime": "95.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.59%",
-    "uptimeYear": "95.59%",
+    "uptimeMonth": "95.66%",
+    "uptimeYear": "95.66%",
     "time": 224,
     "timeDay": 207,
     "timeWeek": 190,
